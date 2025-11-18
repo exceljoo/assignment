@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+
+.signup{
+    width: 360px;
+    height: 500px;
+    margin: auto;
+    background-color: #97a598;
+    border-radius: 0.5rem;
+    margin-top: 5rem;
+}
+
+h2{
+    text-align: center;
+
+    padding-bottom: 1rem;
+}
+
+.sign{
+    text-align: center;
+    /* padding: 0.5rem; */
+    padding-top: 1rem;
+    
+    color: #d7e9e3;
+
+}
+
+form{
+    width: 82%;
+    margin-left: 0.6rem;
+
+}
+
+ form input{
+    width: 100%;
+    padding: 12px;
+    margin: 0.5rem;
+    border: none;
+}
+
+.btn{
+    margin: 0.5rem;
+    width:5rem ;
+    height: 2rem;
+    background-color: #97db9c;
+    border: none;
+    border-radius: 0.2rem;
+}
